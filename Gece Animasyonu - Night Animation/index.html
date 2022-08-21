@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <style>
+        body{
+            background-color: #8ac7e4;
+            animation: geceyeCevir 10s infinite 1.5s;
+        }
+        .kapsayici{
+            position: absolute;
+            top: 50px;
+            left: 50px;
+            transform: translate(-50%, -50%);
+            display: block;
+        }
+        .gunes{
+            margin: 70px auto;
+            height: 150px;
+            width: 150px;
+            border-radius: 50%;
+            background-color: #fcd25b;
+            border: 3px solid #fcd25b;
+            animation: gunesRengi 10s infinite 1.5s;
+        }
+        .golge{
+            height: 170px;
+            width: 170px;
+            border-radius: 50%;
+            background-color: #8ac7e4;
+            top: 5px;
+            left: 0px;
+            animation: golgeHareketi 10s infinite 1.5s;
+        }
+        @keyframes gunesRengi{
+            0%{
+                background-color: #fcd25b;
+            }
+            50%{
+                background-color: #fff;
+                border: 3px solid #fff;
+            }
+        }
+        @keyframes golgeHareketi{
+            0%{
+                transform: translateX(150px);
+            }
+            50%{
+                transform: translateX(35px);
+                background-color: #08011a;
+            }
+            100%{
+                transform: translateX(-175px);
+                background-color: #8ac7e4;
+            }
+
+        }
+        @keyframes geceyeCevir{
+            0%{
+                background-color: #8ac7e4;
+            }
+            50%{
+                background-color: #08011a;
+            }
+            100%{
+                background-color: #8ac7e4;
+            }
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="kapsayici"></div>
+    <div class="gunes">
+        <div class="golge"></div>
+    </div>
+</body>
+</html>
