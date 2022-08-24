@@ -1,5 +1,5 @@
 # Web Projects
-# Web Projeleri
+## Web Projeleri
 
 Html ve Css ile yazdığım geometrik şekilleri sunuyorum. hesabımı takip etmeyi ve yıldızlamayı unutmayın. Teşekkürler.<br/>
 Daha fazla bu tarz içerik için → <code><a href="https://instagram.com/codingwithnihat" target="_blank">
