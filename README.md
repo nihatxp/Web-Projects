@@ -1,7 +1,7 @@
 # Web Projects
 ## Web Projeleri
 
-Html ve Css ile yazdığım geometrik şekilleri sunuyorum. hesabımı takip etmeyi ve yıldızlamayı unutmayın. Teşekkürler.<br/>
+Html ve Css ile yaptığım logo ve animasyonları sunuyorum. Github hesabımı takip etmeyi ve repoyu yıldızlamayı unutmayın. Teşekkürler.<br/>
 Daha fazla bu tarz içerik için → <code><a href="https://instagram.com/codingwithnihat" target="_blank">
 	  <img width="25px" src="https://raw.githubusercontent.com/nihatxp/nihatxp/master/assets/instagram-512.svg" alt="Instagram"/></a></code>
 	
