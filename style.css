@@ -2,7 +2,7 @@ body {
   padding: 40px 0;
   background-color: rgb(34, 30, 30);
 }
-button{
+button {
   position: absolute;
   top: 5px;
   padding: 5px;
@@ -12,21 +12,21 @@ button{
   font-weight: bold;
   border-color: #111;
 }
-button:hover{
+button:hover {
   border-color: #fff;
 }
-.bx{
+.bx {
   padding-left: 5px;
 }
-.instagram{
+.instagram {
   background-color: rgb(208, 111, 130);
   color: #ccc;
 }
-.youtube{
+.youtube {
   left: 110px;
   background-color: red;
 }
-.github{
+.github {
   left: 212px;
   background-color: #020229;
   color: #ccc;
@@ -37,7 +37,7 @@ button:hover{
   grid-gap: 20px;
   align-items: stretch;
 }
-.header{
+.header {
   margin: 0 20px;
   color: #ccc;
   border-color: black;
@@ -60,36 +60,36 @@ iframe {
 .grid .text {
   padding: 20px;
 }
-.link{
+.link {
   font-family: monospace;
   text-decoration: none;
   font-size: large;
   color: #ccc;
 }
 
-.link:hover{
+.link:hover {
   text-decoration: underline;
 }
 
-.filters{
+.filters {
   display: flex;
   justify-content: center;
   align-items: center;
-  column-gap: .75rem;
+  column-gap: 0.75rem;
   margin-bottom: 2rem;
 }
 
-.item{
+.item {
   cursor: pointer;
   color: #cecece;
   font-family: monospace;
   font-size: large;
-  padding: .25rem .75rem;
+  padding: 0.25rem 0.75rem;
   font-weight: var(--font-medium);
-  border-radius: .5rem;
+  border-radius: 0.5rem;
 }
 
-.active-work{
+.active-work {
   background-color: #fff;
   color: #111;
 }
