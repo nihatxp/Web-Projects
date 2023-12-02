@@ -1,0 +1,27 @@
+body {
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  background: #222;
+}
+svg {
+  fill: #cad;
+  max-width: 60vmin;
+}
+
+#solBacak,
+#sagBacak{
+  animation: bacaklar 0.4s infinite steps(2);
+}
+
+#sagBacak{
+  animation-delay: -0.2s;
+}
+
+@keyframes bacaklar {
+  to {
+    transform: translateY(-10%);
+  }
+}
+

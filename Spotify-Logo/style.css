@@ -1,0 +1,23 @@
+html {
+    height: 100%;
+    }
+    body {
+    height: 100%;
+    background: #181818;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    }
+    .spotify-logo {
+    width: 200px;
+    height: 200px;
+    left: 0;
+    right: 0;
+    }
+    .logo {
+    fill: #1ed760;
+    }
+    .sound-waves {
+    fill: #181818;
+    }
